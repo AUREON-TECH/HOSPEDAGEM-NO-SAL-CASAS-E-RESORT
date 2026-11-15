@@ -1,0 +1,8 @@
+node_modules
+dist/
+.env*
+.sites-runtime/
+.openai/
+public/resort.jpg
+public/icon-192.png
+public/icon-512.png
