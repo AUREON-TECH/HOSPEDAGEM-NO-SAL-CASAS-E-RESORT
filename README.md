@@ -2,6 +2,10 @@
 
 PWA responsivo com cinco resorts: Park, Exclusive, Beach, Premium e Aqualand.
 
+Aplicativo publicado: https://hospedagem-no-sal-casas-resort.raphaelbueno-captaca.chatgpt.site/
+
+A Vercel recusou a criação do projeto por falta de permissão na conta conectada. A versão atual está publicada na hospedagem alternativa; a configuração Vercel permanece pronta no repositório para uso futuro.
+
 ## Funcionalidades
 - Catálogo, galeria, descrição, capacidade, diária e consulta de datas.
 - Cadastro e login por e-mail/senha com autenticação gerenciada.
